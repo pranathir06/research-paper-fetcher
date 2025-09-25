@@ -6,3 +6,12 @@ langchain_groq
 langchain_gemini
 chromadb
 tavily-python
+streamlit
+google-generativeai
+langchain-google-genai
+langchain-experimental
+dotenv
+pydantic
+langchain-tavily
+ipython
+langchain-mcp-adapters
